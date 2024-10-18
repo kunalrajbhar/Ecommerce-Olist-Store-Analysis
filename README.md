@@ -90,6 +90,6 @@ The project includes visualizations for:
 │   └── E-Commerce Project.twbx # Tableau file for advanced visualizations
 ├── README.md                      # Project documentation
 └── results
-    └── E-Commerce Project.ppt            # Final report containing major KPIs and insights
+    └── E-Commerce Project.ppt            # Final ppt containing major KPIs and insights
 
 
