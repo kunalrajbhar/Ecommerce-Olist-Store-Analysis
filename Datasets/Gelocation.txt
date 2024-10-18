@@ -1,0 +1,1 @@
+I was unable to upload geolocation dataset but you can download geolocation.csv from here link:- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv
