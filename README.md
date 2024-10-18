@@ -70,6 +70,14 @@ The project includes visualizations for:
 
 ---
 
+## 📈 How to Run the Analysis
+- Data Preparation:
+  Use MySQL to run the provided queries to extract and prepare the data.
+- Analysis:
+  Open the Excel file (E-Commerce Project.xlsx) to explore the data transformations.
+- Visualization:
+  View and interact with the dashboards in PowerBI (E-Commerce Project.pbix) or Tableau (E-Commerce Project.twbx).
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -83,3 +91,5 @@ The project includes visualizations for:
 ├── README.md                      # Project documentation
 └── results
     └── E-Commerce Project.ppt            # Final report containing major KPIs and insights
+
+
